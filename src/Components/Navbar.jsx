@@ -25,7 +25,7 @@ function Navbar() {
       <ul className="menu">
         <li>
           <Link to="main" smooth={true} duration={1000}>
-            Header
+            Home
           </Link>
         </li>
         <li>
