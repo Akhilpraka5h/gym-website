@@ -1,3 +1,6 @@
+![Screenshot 2024-04-30 155054](https://github.com/Akhilpraka5h/gym-website/assets/134758922/bcf29dd8-879a-4dc6-b597-c7e91823a6ed)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
